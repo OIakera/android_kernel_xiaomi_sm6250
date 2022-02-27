@@ -91,7 +91,7 @@ function cloneTC() {
 	PATH="${KERNEL_DIR}/aosp-clang/bin:${KERNEL_DIR}/gcc/bin:${KERNEL_DIR}/gcc32/bin:${PATH}"
 	fi
         # Clone AnyKernel
-        git clone --depth=1 https://github.com/reaPeR1010/AnyKernel3
+        git clone --depth=1 https://github.com/reaPeR1010/AnyKernel3 -b new AnyKernel3
 
 	}
 	
