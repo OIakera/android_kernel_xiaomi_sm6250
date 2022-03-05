@@ -46,7 +46,7 @@ FINAL_ZIP=${ZIPNAME}-${VERSION}-${DEVICE}-${TANGGAL}.zip
 
 ##----------------------------------------------------------##
 # Specify Compiler and Linker
-COMPILER=atomx
+COMPILER=azure
 
 LINKER=ld.lld
 ##----------------------------------------------------------##
